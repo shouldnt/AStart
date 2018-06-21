@@ -82,7 +82,7 @@ function divide(x, y, width, height, orientation) {
 		block_list[point.x + '-' + point.y] = block;
 	}
 
-	let box_1 = [
+	let  = [
 
 		x, // x
 		y, // y
